@@ -20,5 +20,5 @@ Fitur bisa di lihat pada <a href="https://github.com/galihap76/movieku/releases"
 
 ## Penutup
 
-Aplikasi web ini mungkin akan saya update jika saya memang ada waktu. Terima kasih.
+Website ini mungkin akan saya update jika saya memang ada waktu. Terima kasih.
 
