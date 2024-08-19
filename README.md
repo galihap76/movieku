@@ -1,8 +1,11 @@
-# React + Vite
+## Movieku
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website ini menampilkan informasi film berdasarkan kriteria yang dicari oleh pengguna. Dibangun menggunakan teknologi **React.js**, website ini memungkinkan pengguna untuk mencari film favorit mereka dan melihat detail lengkap dari setiap film.
 
-Currently, two official plugins are available:
+## Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fitur bisa di lihat pada <a href="https://github.com/galihap76/movieku/releases">rilis aplikasi</a>.
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/2cabba83-9fc5-4221-90e0-57ede1c6bfa1)
