@@ -8,7 +8,7 @@ export default function Footer() {
               <p>
                 Made With <i className="bi bi-heart-fill text-danger"></i> By
                 <a
-                  href="https://web.facebook.com/galih.ap.357"
+                  href="https://galihap76.github.io"
                   className="text-white fw-bold mx-1"
                 >
                   Galih Anggoro Prasetya
